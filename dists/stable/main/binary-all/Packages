@@ -1,0 +1,13 @@
+Package: nixshim
+Version: 2.1
+Architecture: all
+Maintainer: sekid401
+Depends: bash, coreutils, proot
+Description: Run nix programs!
+Filename: dists/stable/main/binary-all/nixshim_2.1_all.deb
+Size: 2376
+MD5Sum: 26910f88962b124b62847008ae595a53
+SHA1: d1028742837f559e6abc65d2edabb82b91ebbc79
+SHA256: 7f02f78b7706909dcd5749a117de0751fa3cbb8d3adc2a123d31e18013d8cc98
+SHA512: c25b3e4d2b066041baa6333a28150415e727cb257df1888d77846b179fa922fdd53485a105251f1af71ced88a8b3ab62de1728f8458c1f4edb2ea557c3fcd6ed
+
