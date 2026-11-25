@@ -1,27 +1,31 @@
-Codename: termux
-Version: 1
 Architectures: all
-Description: stable repository
-Suite: stable
-Date: Wed, 25 Nov 2026 13:10:41 UTC
+Codename: stable
 Components: main
+Date: Wed, 25 Nov 2026 13:28:37 +0000
+Label: pkgman
+Origin: pkgman
+Suite: stable
 MD5Sum:
- 81df456476a936d46df9a28f7d8dbb2a 501 main/binary-all/Packages
- bc7f2733bc1a5b96da51b14f5bd93ab3 456 main/binary-all/Packages.xz
- 5f8797ac290959f3ca7f587baa0edd9f 89 main/Contents-all
- 458fa2741db318e11f69a19d5ca91f9a 116 main/Contents-all.xz
+ ec9bf588617b39b5b29ed3a6a450a576             2168 Release
+ 5f8797ac290959f3ca7f587baa0edd9f               89 main/Contents-all
+ 458fa2741db318e11f69a19d5ca91f9a              116 main/Contents-all.xz
+ 81df456476a936d46df9a28f7d8dbb2a              501 main/binary-all/Packages
+ bc7f2733bc1a5b96da51b14f5bd93ab3              456 main/binary-all/Packages.xz
 SHA1:
- 2ec0993dff4496fb5562920fd6462af11a0a332e 501 main/binary-all/Packages
- 6304310b73e3bf5ae54cfe3ca8079a701a6dc1cd 456 main/binary-all/Packages.xz
- 41fdcbf96e98dc34a88743e896ac0bfaee24cde1 89 main/Contents-all
- 6401d2d573c3a6e46417dceafd749988a8dc9a89 116 main/Contents-all.xz
+ b0d236fcfc238b9fb1cb8b318f1e518628a8fcec             2168 Release
+ 41fdcbf96e98dc34a88743e896ac0bfaee24cde1               89 main/Contents-all
+ 6401d2d573c3a6e46417dceafd749988a8dc9a89              116 main/Contents-all.xz
+ 2ec0993dff4496fb5562920fd6462af11a0a332e              501 main/binary-all/Packages
+ 6304310b73e3bf5ae54cfe3ca8079a701a6dc1cd              456 main/binary-all/Packages.xz
 SHA256:
- 08ffbb8226e9c67a11aca69967f4873cccdfe01132c8c96a0d15ab7983c7f824 501 main/binary-all/Packages
- f039550b89da9ac55211a041364992e3bbe8df331be2b0f14bac2bf7a20cf9b2 456 main/binary-all/Packages.xz
- 98066aecf7d95b63ced6e5e3e2fd7b3798cbb76db6f2c533c0a1d54e68420926 89 main/Contents-all
- 5263e6f2454eb16cc5f1f69c62cbf36f46be268c2c4d8be0b3b1f4cf04be15aa 116 main/Contents-all.xz
+ cc791a6581068b4f23b44d097bcbc64faf22663365e51801de11acefb0d477fe             2168 Release
+ 98066aecf7d95b63ced6e5e3e2fd7b3798cbb76db6f2c533c0a1d54e68420926               89 main/Contents-all
+ 5263e6f2454eb16cc5f1f69c62cbf36f46be268c2c4d8be0b3b1f4cf04be15aa              116 main/Contents-all.xz
+ 08ffbb8226e9c67a11aca69967f4873cccdfe01132c8c96a0d15ab7983c7f824              501 main/binary-all/Packages
+ f039550b89da9ac55211a041364992e3bbe8df331be2b0f14bac2bf7a20cf9b2              456 main/binary-all/Packages.xz
 SHA512:
- 039d9b3c123bdc1ecbe91ff6746886ebee7dcb034ede45f162662f110a38770666afc45055483ef9fde5e5ea2893c80e240130bfe2a56a9a61527c45a6ea3b7f 501 main/binary-all/Packages
- c06d870db8f22eebadfd6b84db14cb77ea674724572ed7a7b2d5ddd92c58ad2aa2a0ae18ea0a1baa67ac44bb8d07b6519c89a4938c6275d5d02487b28eb5106f 456 main/binary-all/Packages.xz
- fcdfd3d1df2e864f05101b71a3139b163474d9702cc311539e2b03ffe20f490fc8a78ec4e94372d30efa36224e6a7928c64f12e2e7e5d9bf4b7363b8786b7d07 89 main/Contents-all
- ad939a9144f69490e38eef2911d8f788a7e113671624a4314aad755ae226b6b81253667d48adf94057e74da84c924886b96b28585d34ae2fc22da394c8e0ddb9 116 main/Contents-all.xz
+ 13345cd18c3615f696d20c1d9109394d32afd973d1e30dc5104a732606e3bd938440627094c24f7d7dd01b572e789b15947d26dc662d495eb4eeff845d0bcd73             2168 Release
+ fcdfd3d1df2e864f05101b71a3139b163474d9702cc311539e2b03ffe20f490fc8a78ec4e94372d30efa36224e6a7928c64f12e2e7e5d9bf4b7363b8786b7d07               89 main/Contents-all
+ ad939a9144f69490e38eef2911d8f788a7e113671624a4314aad755ae226b6b81253667d48adf94057e74da84c924886b96b28585d34ae2fc22da394c8e0ddb9              116 main/Contents-all.xz
+ 039d9b3c123bdc1ecbe91ff6746886ebee7dcb034ede45f162662f110a38770666afc45055483ef9fde5e5ea2893c80e240130bfe2a56a9a61527c45a6ea3b7f              501 main/binary-all/Packages
+ c06d870db8f22eebadfd6b84db14cb77ea674724572ed7a7b2d5ddd92c58ad2aa2a0ae18ea0a1baa67ac44bb8d07b6519c89a4938c6275d5d02487b28eb5106f              456 main/binary-all/Packages.xz
